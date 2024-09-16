@@ -1,9 +1,11 @@
 ## Bem-vindo(a) ao perfil do André Fida 
+>Analista de Sistemas
+>Técnico em Mecatrônica
 
  <div>
    <a href="https://github.com/FidaDev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arodcru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arodcru&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FidaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidaDev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
